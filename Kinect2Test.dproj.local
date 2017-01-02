@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/02 04:16:57.000.883,=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2015/08/04 22:58:23.000.125,=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2015/08/04 22:59:15.000.564,C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Kinect\Delphi\Kinect2Test\Main.dfm</Transaction>
+    <Transaction>2015/08/04 22:59:15.000.564,C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Kinect\Delphi\Kinect2Test\Main.pas</Transaction>
+    <Transaction>2015/08/04 22:59:23.000.857,C:\Users\cb\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Kinect\Delphi\Kinect2Test\Kinect2Test.dproj</Transaction>
+    <Transaction>2015/08/04 23:51:41.000.493,=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/04 23:52:39.000.494,=C:\Kinect\Delphi\Kinect2Test\Kinect2.pas</Transaction>
+    <Transaction>2015/08/08 16:46:52.000.110,C:\Kinect\Delphi\Kinect2Test\Kinect2Dll.pas=C:\Kinect\Delphi\Kinect2Test\Kinect2.pas</Transaction>
+    <Transaction>2015/08/08 16:46:56.000.322,=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/08 16:47:11.000.133,C:\Kinect\Delphi\Kinect2Test\Kinect2.pas=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/08 16:47:41.000.028,C:\Kinect\Delphi\Kinect2Test\Kinect.pas=C:\Kinect\Delphi\Kinect2Test\Kinect2.pas</Transaction>
+    <Transaction>2015/08/08 16:47:53.000.116,C:\Kinect\Delphi\Kinect2Test\Kinect2.pas=C:\Kinect\Delphi\Kinect2Test\Kinect.pas</Transaction>
+    <Transaction>2015/08/08 17:00:17.000.271,C:\Kinect\Delphi\Kinect2Test\Kinect2U.pas=C:\Kinect\Delphi\Kinect2Test\Kinect2.pas</Transaction>
+    <Transaction>2015/08/08 17:27:52.000.667,=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/08 17:27:59.000.184,C:\Kinect\Delphi\Kinect2Test\BmpUtils.pas=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/12 18:52:08.000.115,=C:\Kinect\Delphi\Kinect2Test\Unit1.pas</Transaction>
+    <Transaction>2015/08/12 18:52:20.000.636,C:\Kinect\Delphi\Kinect2Test\Unit1.pas=C:\Standards and DS\Code\SadsKT\KinectFrmU.pas</Transaction>
+    <Transaction>2015/08/12 18:52:20.000.636,C:\Kinect\Delphi\Kinect2Test\Unit1.dfm=C:\Standards and DS\Code\SadsKT\KinectFrmU.dfm</Transaction>
+    <Transaction>2015/09/21 22:55:26.000.662,C:\Standards and DS\Code\SadsKT\KinectFrmU.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
